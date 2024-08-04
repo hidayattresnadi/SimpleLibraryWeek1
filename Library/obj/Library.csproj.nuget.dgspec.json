@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\New folder (2)\\Library\\Library.csproj": {}
+    "c:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\New folder (2)\\Library\\Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\New folder (2)\\Library\\Library.csproj": {
+    "c:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\New folder (2)\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\New folder (2)\\Library\\Library.csproj",
+        "projectUniqueName": "c:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\New folder (2)\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\New folder (2)\\Library\\Library.csproj",
+        "projectPath": "c:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\New folder (2)\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\Hidayat tresnadi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\New folder (2)\\Library\\obj\\",
+        "outputPath": "c:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\New folder (2)\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hidayat tresnadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
